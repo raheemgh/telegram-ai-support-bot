@@ -27,4 +27,4 @@ touching core logic.
 ## Custom Builds
 Available for custom Telegram/WhatsApp bots, n8n automation workflows, 
 and AI-powered business tools. 
-Contact(WhatsApp): [+963982195846]
+Contact: [+963982195846]
